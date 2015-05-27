@@ -1,0 +1,14 @@
+{
+  "rows": [
+    {
+      "col1": "id_1",
+      "col2": "拖鞋",
+      "col3": "online"
+    },
+    {
+      "col1": "id_2",
+      "col2": "裙子",
+      "col3": "offline"
+    }
+  ]
+}

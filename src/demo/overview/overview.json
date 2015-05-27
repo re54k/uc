@@ -1,0 +1,26 @@
+{
+  "data": {
+    "filter": {
+      "select": {
+        "name": "state",
+        "options": [
+          {
+            "label": "online",
+            "value": 1
+          },
+          {
+            "label": "offline",
+            "value": 0
+          }
+        ]
+      },
+      "search": {
+        "name": "search"
+      }
+    },
+
+    "datatable": {
+      "dataUrl": "../demo/overview/table.json"
+    }
+  }
+}
